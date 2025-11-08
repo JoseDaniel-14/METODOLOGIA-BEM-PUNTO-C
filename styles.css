@@ -1,0 +1,25 @@
+.closet {
+border: 2px solid #444;
+background: #f7f3e9;
+padding: 16px;
+width: 300px;
+margin: 20px auto;
+}
+
+
+.closet__shoes {
+background: #e8f4ff;
+padding: 10px;
+}
+
+
+.closet__shoes-item {
+color: blue;
+text-decoration: underline;
+margin: 5px 0;
+}
+
+
+.closet__shoes-item--favorite {
+font-weight: bold;
+}
